@@ -4,6 +4,7 @@ date: 2025-03-17
 type: note
 status: draft
 tags:
+  - podcast
   - brainflares
   - Episode-1
 ---
@@ -11,7 +12,7 @@ tags:
 # Podcast - Leveraging Obsidian with Windsurf AI
 
 ## Summary
-This podcast explores the powerful combination of Obsidian (a knowledge management tool) with Windsurf (an agentic IDE with AI capabilities). We'll discuss how this integration enhances thought capture, knowledge management, and research workflows, allowing users to seamlessly blend their thinking process with AI assistance. awesome.
+This podcast explores the powerful combination of Obsidian (a knowledge management tool) with Windsurf (an agentic IDE with AI capabilities). We'll discuss how this integration enhances thought capture, knowledge management, and research workflows, allowing users to seamlessly blend their thinking process with AI assistance.
 
 ## Details
 
