@@ -1,0 +1,16 @@
+# Obsidian specific files to ignore
+.obsidian/workspace.json
+.obsidian/workspace
+.obsidian/cache
+.obsidian/plugins/*/data.json
+.trash/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Node modules if you're using any NodeJS based plugins
+node_modules/
+
+# Mobile app specific files
+.mobile/
